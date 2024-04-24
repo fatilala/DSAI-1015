@@ -9,8 +9,7 @@ While popularity of a song or the capability of a song to rank high on charts ma
 
 Hence, our problem definition: 
 
-◦  Discovering if it’s possible to predict popularity of a song using its features, and in the process, examining other secondary features as well such as which genre is the best     
-   performing genre in terms of popularity.
+   Discovering if it’s possible to predict popularity of a song using its features, and in the process, examining other secondary features as well such as which genre is the best          performing genre in terms of popularity.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ML TECHNIQUES WE USED: 
 1) Linear regression
@@ -31,32 +30,34 @@ Hence, our problem definition:
   
   ◦ Plotting joint plots and correlation matrix of features with the popularity
 
+
 ### 2) Regression & Classification Notebook:
 
    ◦ LINEAR REGRESSION:
-   
       - We selected certain song features based on the the correlation matrix alongside popularity
       - Performed univariate regression.  
       - Performed multivariate regression with popularity
 
    ◦ DECISION TREE CLASSIFIER:
-   
       - Converted popularity to a categorical variable and we performed univariate classification.
       - We found a high number of misclassifications hence we used → AdaBoostClassifier which helped reduce misclassifications.
       - Performed multivariate classification utilising the AdaBoostClassifier → we saw better results.
 
+
 ### 3) K Means Clustering Notebook:
 
-    - We sought to tackle the song popularity prediction based on different genres of songs.
-    - We grouped the songs into distinct clusters in terms of → many streams, average streams, or less streams.
-    - Model then analysed characteristics of songs within each cluster .
-    - Our theory was that we could then place a song under one of the clusters based on its features and then predict the popularity of that song.
+   - We sought to tackle the song popularity prediction based on different genres of songs.
+   - We grouped the songs into distinct clusters in terms of → many streams, average streams, or less streams.
+   - Model then analysed characteristics of songs within each cluster .
+   - Our theory was that we could then place a song under one of the clusters based on its features and then predict  popularity of that song.
+
 
 ### 4) Neural Network Notebook:
-    - Our goal → to use a deep multi-layered neural network, having it take in data from all the 10x features and predict if the song is popular or not.
-    - We opted to use a normal Artificial Feed-forward Neural Network with 5 hidden layers.
-    - Employed “MinMaxScaler” alongside to improve accuracy by scaling
-    - Input data was split into batch sizes of 128 and run over 30 epochs
+   
+   - Our goal → to use a deep multi-layered neural network, having it take in data from all the 10x features and predict if the song is popular or not. 
+   - We opted to use a normal Artificial Feed-forward Neural Network with 5 hidden layers.
+   - Employed “MinMaxScaler” alongside to improve accuracy by scaling
+   - Input data was split into batch sizes of 128 and run over 30 epochs.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## FINDINGS
@@ -68,6 +69,16 @@ Hence, our problem definition:
   - Found that our neural network model worked most optimally because of our large dataset and when we utilised more song features.
     
   - Each of the models we used had its own purpose and were optimal in different cases.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## NEW THINGS WE LEARNT:
+
+- AdaBoostclassifier for handling misclassified samples
+- Attempting to find clusters within the data
+- Importing Keras and Tensorflow for our neural network model
+- Applying neural network for prediction
+- Clustering using K Means
 
 
 
