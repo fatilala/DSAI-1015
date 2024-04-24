@@ -26,13 +26,13 @@ Hence, our problem definition:
 ## OUR PROJECT FILES:
 
 ### 1) EDA Notebook : Data extraction and Exploratory Analysis
-  ◦ Read in data from kaggle -> import the CSV file of the spotify tracks
+- Read in data from kaggle -> import the CSV file of the spotify tracks
   
-  ◦ Explored the different features of the songs to identify the numerical and categorical variables that can be used to predict popularity
+- Explored the different features of the songs to identify the numerical and categorical variables that can be used to predict popularity
   
-  ◦ Uni-variate statistics done to observe the features
+- Uni-variate statistics done to observe the features
   
-  ◦ Plotting joint plots and correlation matrix of features with the popularity
+- Plotting joint plots and correlation matrix of features with the popularity
 
 
 
