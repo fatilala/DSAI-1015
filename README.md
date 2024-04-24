@@ -96,25 +96,46 @@ Hence, our problem definition:
 ## CONTRIBUTORS
 
 - @ranulaaa - Rahul Shanker Ramkrishna
-      ◦ Exploratory Data Analysis
-      ◦ K Means Clustering
+  
+  ◦ Exploratory Data Analysis
+  
+  ◦ K Means Clustering
 
 - @fatilala - Fatima Nowshad
-      ◦ Linear Regression
-      ◦ Decision Tree and AdaboostClassifier
+  
+  ◦ Linear Regression
+  
+  ◦ Decision Tree and AdaboostClassifier
 
 - @AtariGoh - Goh Jie Rong,Sean
-      ◦ Neural Network
+  
+  ◦ Neural Network
 
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## REFERENCES
+
 https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db#SpotifyFeatures.csv
 https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+Ahmed, M., Seraj, R., & Islam, S. M. S. (2020). The k-means Algorithm: A Comprehensive Survey and Performance Evaluation. Electronics. https://doi.org/10.3390/electronics9081295 
+Rogel-Salazar, J. (2022, April 1). K-means clustering in Python: A step-by-step guide. Domino Data Lab. https://domino.ai/blog/getting-started-with-k-means-clustering-in-python  
+3Blue1Brown, dir. 2017a. But What Is a Neural Network? | Chapter 1, Deep Learning.
+3Blue1Brown, dir. 2017b. Gradient Descent, How Neural Networks Learn | Chapter 2, Deep Learning.
+Marcin. 2020. “Answer to ‘Why the Neural Network Is Not Learning?’” Stack Overflow. Retrieved April 24, 2024 (https://stackoverflow.com/a/64636227).
+Mısra Turp, dir. 2022. A Summary of Deep Learning and Artificial Intelligence Landscape.
+Prof. Ryan Ahmed, dir. 2022. Normalization Vs. Standardization (Feature Scaling in Machine Learning).
+Python Tutorials for Digital Humanities, dir. 2020. Types of Neural Networks (Neural Networks for DH 07).
+Slevin_42. 2020. “Why the Neural Network Is Not Learning?” Stack Overflow. Retrieved April 24, 2024 (https://stackoverflow.com/q/64634468).
+Steve Brunton, dir. 2019. Neural Network Architectures & Deep Learning.
+Sycorax. 2018. “Answer to ‘What Should I Do When My Neural Network Doesn’t Learn?’” Cross Validated. Retrieved April 24, 2024 (https://stats.stackexchange.com/a/352037).
+Team, Keras. n.d.-a. “Keras Documentation: Layer Activation Functions.” Retrieved April 24, 2024 (https://keras.io/api/layers/activations/).
+
+
 
 
 
