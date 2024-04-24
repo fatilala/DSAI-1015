@@ -38,15 +38,17 @@ Hence, our problem definition:
 
 ### 2) Regression & Classification Notebook:
 
-   ◦ LINEAR REGRESSION:
-      - We selected certain song features based on the the correlation matrix alongside popularity
-      - Performed univariate regression.  
-      - Performed multivariate regression with popularity
+◦ LINEAR REGRESSION:
+   
+   - We selected certain song features based on the the correlation matrix alongside popularity  
+   - Performed univariate regression.  
+   - Performed multivariate regression with popularity
+ 
+◦ DECISION TREE CLASSIFIER:
 
-   ◦ DECISION TREE CLASSIFIER:
-      - Converted popularity to a categorical variable and we performed univariate classification.
-      - We found a high number of misclassifications hence we used → AdaBoostClassifier which helped reduce misclassifications.
-      - Performed multivariate classification utilising the AdaBoostClassifier → we saw better results.
+   - Converted popularity to a categorical variable and we performed univariate classification.
+   - We found a high number of misclassifications hence we used → AdaBoostClassifier which helped reduce misclassifications.
+   - Performed multivariate classification utilising the AdaBoostClassifier → we saw better results.
 
 
 
@@ -97,19 +99,19 @@ Hence, our problem definition:
 
 - @ranulaaa - Rahul Shanker Ramkrishna
   
-  ◦ Exploratory Data Analysis
+    ◦ Exploratory Data Analysis
   
-  ◦ K Means Clustering
+    ◦ K Means Clustering
 
 - @fatilala - Fatima Nowshad
   
-  ◦ Linear Regression
+    ◦ Linear Regression
   
-  ◦ Decision Tree and AdaboostClassifier
+    ◦ Decision Tree and AdaboostClassifier
 
 - @AtariGoh - Goh Jie Rong,Sean
   
-  ◦ Neural Network
+    ◦ Neural Network
 
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
