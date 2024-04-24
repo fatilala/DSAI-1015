@@ -96,20 +96,15 @@ Hence, our problem definition:
 ## CONTRIBUTORS
 
 - @ranulaaa - Rahul Shanker Ramkrishna
-  
-    ◦ Exploratory Data Analysis
-  
-    ◦ K Means Clustering
+     - Exploratory Data Analysis
+     - K Means Clustering
 
 - @fatilala - Fatima Nowshad
-  
-    ◦ Linear Regression
-  
-    ◦ Decision Tree and AdaboostClassifier
+    - Linear Regression
+    - Decision Tree and AdaboostClassifier
 
 - @AtariGoh - Goh Jie Rong,Sean
-  
-    ◦ Neural Network
+    - Neural Network
 
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
