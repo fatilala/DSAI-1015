@@ -8,5 +8,16 @@ We are simulating playing the role of a record label/music producer who is inter
 While popularity of a song or the capability of a song to rank high on charts may be influenced by the current trends, the various components that make up a song may be the answer for producing a hit song. Therefore, one can then predict how well a newly released song can perform based on these patterns. Therefore, these producers would want to predict how well a song will perform based on different metrics and song characteristics to appeal to a larger audience. 
 
 Hence, our problem definition: 
+
 ◦  Discovering if it’s possible to predict popularity of a song using its features, and in the process, examining other secondary features as well such as which genre is the best     
    performing genre in terms of popularity.
+
+### ML TECHNIQUES WE USED: 
+1) Linear regression
+2) Decision tree
+3) AdaBoost Classifier
+4) K means Clustering
+5) Deep FeedForward Neural Network
+
+   
+
